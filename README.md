@@ -13,7 +13,9 @@
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1DLMCB3kVEseV00KSACOTM3ake9ZBLPIM/view?usp=sharing)
 
-- ⚡ Fun fact **I've lived in 4 countries! Those being (in order): India, Nigeria, Thailand and Indonesia.**
+- 📄 My courses for the upcoming fall semester are: Computer Graphics, Compilers, Computational Probability, Engineering in Ancienct Technologies and a Place of Persons. 
+
+- ⚡ Fun fact **I've lived in 4 countries! Those being (in order): India, Nigeria, Thailand and Indonesia. Note: Before you ask, the ranking of which place I loved the most is: India, Thailand, Indoensia, Nigeria. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
