@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aryan_singh@brown.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DLMCB3kVEseV00KSACOTM3ake9ZBLPIM/view?usp=sharing](here)
+- 📄 Know about my experiences [here]([here](https://drive.google.com/file/d/1DLMCB3kVEseV00KSACOTM3ake9ZBLPIM/view?usp=sharing))
 
 - ⚡ Fun fact **I've lived in 4 countries! Those being (in order): India, Nigeria, Thailand and Indonesia.**
 
