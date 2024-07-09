@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aryan Singh</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Titillium+Web&size=25&pause=1000&color=425FF7&random=false&width=435&lines=Hi%2C+my+name+is+Aryan+Singh!;Welcome+to+my+page!" alt="Typing SVG" /></a>
 <h3 align="center">A rising junior from Brown University, majoring in Applied Mathematics - Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh-aryan-1977&label=Profile%20views&color=0e75b6&style=flat" alt="singh-aryan-1977" /> </p>
