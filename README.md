@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aryan Singh</h1>
 
-<h3 align="left">A rising junior from Brown University, majoring in Applied Mathematics - Computer Science</h3>
+<h3 align="left">A senior from Brown University, majoring in Applied Mathematics - Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh-aryan-1977&label=Profile%20views&color=0e75b6&style=flat" alt="singh-aryan-1977" /> </p>
 
-- 🔭 I’m currently working on **a summer research project at the Brown Particle Astrophysics Group**
+- 🔭 I’m currently working on a **summer internship at Bloomberg on their Enterprise Realtime Development**
 
 - 🌱 I’m currently learning **neovim!**
 
-- 💬 Ask me about **deep learning, systems development or the best place to have a quiet football session at Brown**
+- 💬 Ask me about **low level systems development, deep learning or the best place to have a quiet football session at Brown**
 
 - 📫 How to reach me **aryan_singh@brown.edu**
 
 
-- 📄 My courses for the upcoming fall semester are **Computer Graphics, Compilers, Computational Probability, Engineering in Ancienct Technologies and a Place of Persons**
+- 📄 My courses for the upcoming fall semester are **Datacenter and Cloud Operating Systems, Database Management Systems, Parallel Computing, FPGA 1 and Embedded Systems**
 
 - ⚡ Fun fact **I've lived in 4 countries! Those being (in order): India, Nigeria, Thailand and Indonesia**
 
